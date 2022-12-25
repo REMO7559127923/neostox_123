@@ -1,0 +1,2 @@
+cd C:\Users\Desktop\eclipse-workspace\RJ
+mvn clean test

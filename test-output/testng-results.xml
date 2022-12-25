@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[correct username]]>
+    </line>
+    <line>
+      <![CDATA[correct password]]>
+    </line>
+    <line>
+      <![CDATA[all popup closed]]>
+    </line>
+    <line>
+      <![CDATA[validate userId]]>
+    </line>
+    <line>
+      <![CDATA[amount of NEOSTOX]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-13T18:40:48 IST" name="Default suite" finished-at="2022-12-13T18:41:24 IST" duration-ms="36877">
+    <groups>
+    </groups>
+    <test started-at="2022-12-13T18:40:48 IST" name="Default test" finished-at="2022-12-13T18:41:24 IST" duration-ms="36877">
+      <class name="d_MAVENNeostoxTestNG_.F_NEOSTOX_TESTNG">
+        <test-method is-config="true" signature="openportal()[pri:0, instance:d_MAVENNeostoxTestNG_.F_NEOSTOX_TESTNG@72035809]" started-at="2022-12-13T18:40:48 IST" name="openportal" finished-at="2022-12-13T18:40:59 IST" duration-ms="11430" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openportal -->
+        <test-method is-config="true" signature="Neostoxlogincrendetial()[pri:0, instance:d_MAVENNeostoxTestNG_.F_NEOSTOX_TESTNG@72035809]" started-at="2022-12-13T18:40:59 IST" name="Neostoxlogincrendetial" finished-at="2022-12-13T18:41:24 IST" duration-ms="24326" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[correct username]]>
+            </line>
+            <line>
+              <![CDATA[correct password]]>
+            </line>
+            <line>
+              <![CDATA[all popup closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Neostoxlogincrendetial -->
+        <test-method signature="testcase()[pri:0, instance:d_MAVENNeostoxTestNG_.F_NEOSTOX_TESTNG@72035809]" started-at="2022-12-13T18:41:24 IST" name="testcase" finished-at="2022-12-13T18:41:24 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[validate userId]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:d_MAVENNeostoxTestNG_.F_NEOSTOX_TESTNG@72035809]" started-at="2022-12-13T18:41:24 IST" name="afterMethod" finished-at="2022-12-13T18:41:24 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[amount of NEOSTOX]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:d_MAVENNeostoxTestNG_.F_NEOSTOX_TESTNG@72035809]" started-at="2022-12-13T18:41:24 IST" name="closebrowser" finished-at="2022-12-13T18:41:24 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- d_MAVENNeostoxTestNG_.F_NEOSTOX_TESTNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
