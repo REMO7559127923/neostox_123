@@ -21,7 +21,6 @@ public void handlepopup() throws InterruptedException  {
 	   
 		alert.click();
 		  Thread.sleep(5000); 
-	
 		popupClose.click();
 	}
 }
