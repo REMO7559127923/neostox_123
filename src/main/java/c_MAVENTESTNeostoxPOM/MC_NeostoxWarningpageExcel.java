@@ -20,7 +20,7 @@ public class MC_NeostoxWarningpageExcel {
 public void handlepopup() throws InterruptedException  {
 	   
 		alert.click();
-		  Thread.sleep(3000); 
+		  Thread.sleep(5000); 
 		popupClose.click();
 	}
 }
